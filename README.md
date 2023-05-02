@@ -1,7 +1,6 @@
 # data_science_tutorial
-Config files for my GitHub profile.
-Repo for the FZJ-INM-4 Student meeting at 2.May 2023
-Contains the datset and the Code as Notebooks
+Repo for the FZJ-INM-4 Student meeting at 2.May 2023 <br />
+Contains the datset and the Code as Notebooks <br />
 direct Links:
 - Tutorial notebook:
 https://colab.research.google.com/drive/1u_FkzgalLskLJSC1lbvUXKglw2W-BRzA?usp=sharing
